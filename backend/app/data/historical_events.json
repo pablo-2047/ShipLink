@@ -1,0 +1,427 @@
+[
+  {
+    "date": "2008-05-20",
+    "end_date": "2009-02-01",
+    "event": "Global Financial Crisis & Shipping Collapse",
+    "type": "ECONOMIC",
+    "impact": "BDI crashed from historic peak 11,793 to 663 (-94%). Severe credit freeze, vessel lay-ups, and cancellations of shipbuilding orders globally.",
+    "icon": "📉",
+    "severity": "CRITICAL",
+    "affected_regions": [
+      "GLOBAL"
+    ]
+  },
+  {
+    "date": "2015-11-01",
+    "end_date": "2016-03-31",
+    "event": "BDI Historic All-Time Low (290 points)",
+    "type": "ECONOMIC",
+    "impact": "BDI plunged to historic all-time low of 290 points on 11 Feb 2016 due to extreme dry bulk fleet oversupply and cooling Chinese raw material demand. Capesize earnings below operating costs ($2,700/day).",
+    "icon": "📉",
+    "severity": "HIGH",
+    "affected_regions": [
+      "GLOBAL"
+    ]
+  },
+  {
+    "date": "2019-04-26",
+    "end_date": "2019-05-05",
+    "event": "Cyclone Fani",
+    "type": "WEATHER",
+    "impact": "Category 5 equivalent cyclone made landfall near Puri, Odisha (wind gusts >205 km/h). Paradip, Dhamra, and Gopalpur ports suspended operations for 5-7 days with extensive berth, crane, and power infrastructure damage.",
+    "icon": "🌀",
+    "severity": "CRITICAL",
+    "affected_regions": [
+      "BAY_OF_BENGAL",
+      "EAST_INDIA"
+    ]
+  },
+  {
+    "date": "2020-01-23",
+    "end_date": "2020-06-30",
+    "event": "COVID-19 Initial Lockdowns & Port Disruptions",
+    "type": "PANDEMIC",
+    "impact": "Wuhan lockdown followed by worldwide restrictions. 14-day mandatory quarantine for ships calling from affected ports, severe discharge bottlenecks at Indian ports, industrial plant shutdowns, and worldwide seafarer crew change paralysis.",
+    "icon": "🦠",
+    "severity": "CRITICAL",
+    "affected_regions": [
+      "GLOBAL",
+      "EAST_INDIA",
+      "CHINA"
+    ]
+  },
+  {
+    "date": "2020-05-16",
+    "end_date": "2020-05-21",
+    "event": "Cyclone Amphan",
+    "type": "WEATHER",
+    "impact": "Super cyclone battered Bay of Bengal, striking West Bengal and Odisha coasts. Haldia Dock Complex and Sandheads lighterage suspended operations for 4 days; severe navigational mark dislocations in Hooghly river channel.",
+    "icon": "🌀",
+    "severity": "HIGH",
+    "affected_regions": [
+      "BAY_OF_BENGAL",
+      "EAST_INDIA"
+    ]
+  },
+  {
+    "date": "2020-08-01",
+    "end_date": "2022-04-30",
+    "event": "Post-COVID Global Port Congestion Surge",
+    "type": "LOGISTICS",
+    "impact": "Consumer goods demand rebound caused historic container port queues in US West Coast (LA/Long Beach) and China. Multi-purpose and dry bulk capacity tied up in congestion, causing acute vessel availability shortages.",
+    "icon": "🚢",
+    "severity": "HIGH",
+    "affected_regions": [
+      "GLOBAL",
+      "PACIFIC",
+      "US_WEST_COAST",
+      "CHINA"
+    ]
+  },
+  {
+    "date": "2021-03-23",
+    "end_date": "2021-03-29",
+    "event": "Ever Given Suez Canal Grounding",
+    "type": "MARITIME_ACCIDENT",
+    "impact": "20,124 TEU container ship ran aground blocking Suez Canal for 6 days. Trapped 369+ vessels and forced widespread diversions around the Cape of Good Hope (+10-14 voyage days), causing instant surge in charter rates.",
+    "icon": "🛑",
+    "severity": "HIGH",
+    "affected_regions": [
+      "SUEZ_CANAL",
+      "GLOBAL",
+      "MEDITERRANEAN",
+      "RED_SEA"
+    ]
+  },
+  {
+    "date": "2021-05-14",
+    "end_date": "2021-05-19",
+    "event": "Cyclone Tauktae",
+    "type": "WEATHER",
+    "impact": "Powerful cyclone swept along India's west coast making landfall in Gujarat. Sinking of accommodation barge P305; coastal coal feeder movements from West Coast to southern/eastern plants halted.",
+    "icon": "🌀",
+    "severity": "MEDIUM",
+    "affected_regions": [
+      "ARABIAN_SEA",
+      "WEST_INDIA"
+    ]
+  },
+  {
+    "date": "2021-05-21",
+    "end_date": "2021-06-24",
+    "event": "Yantian Port COVID-19 Lockdown",
+    "type": "PANDEMIC",
+    "impact": "Outbreak at Port of Yantian (Shenzhen) cut terminal productivity by ~70% for over a month. Created massive cargo backlogs across southern China ports and delayed bulk raw materials.",
+    "icon": "🔒",
+    "severity": "MEDIUM",
+    "affected_regions": [
+      "CHINA",
+      "GLOBAL"
+    ]
+  },
+  {
+    "date": "2021-05-23",
+    "end_date": "2021-05-28",
+    "event": "Cyclone Yaas",
+    "type": "WEATHER",
+    "impact": "Landfall south of Balasore, Odisha. Dhamra, Paradip, and Haldia completely suspended vessel operations, evacuated anchorages, and faced storm surge flooding; delayed 40+ inbound coal bulk carriers.",
+    "icon": "🌀",
+    "severity": "HIGH",
+    "affected_regions": [
+      "BAY_OF_BENGAL",
+      "EAST_INDIA"
+    ]
+  },
+  {
+    "date": "2021-08-11",
+    "end_date": "2021-08-25",
+    "event": "Ningbo-Zhoushan Meishan Terminal Closure",
+    "type": "PANDEMIC",
+    "impact": "China shut the world's third-busiest container/bulk hub terminal after single positive COVID test. Congestion spiked across East China Sea and tied up regional bulk and feeder vessels.",
+    "icon": "🔒",
+    "severity": "MEDIUM",
+    "affected_regions": [
+      "CHINA",
+      "GLOBAL"
+    ]
+  },
+  {
+    "date": "2021-09-24",
+    "end_date": "2021-09-28",
+    "event": "Cyclone Gulab",
+    "type": "WEATHER",
+    "impact": "Struck northern Andhra Pradesh coast near Kalingapatnam. Vizag, Gangavaram, and Gopalpur suspended cargo operations, delayed coal unloading by 48-72 hours.",
+    "icon": "🌀",
+    "severity": "MEDIUM",
+    "affected_regions": [
+      "BAY_OF_BENGAL",
+      "EAST_INDIA"
+    ]
+  },
+  {
+    "date": "2021-10-07",
+    "end_date": "2021-10-31",
+    "event": "Baltic Dry Index 13-Year High (5,650 points)",
+    "type": "MARKET",
+    "impact": "BDI surged to 5,650 points, its highest level since 2008. Capesize daily earnings exceeded $86,000/day due to acute Chinese coal shortages, infrastructure stimulus, and widespread port congestion.",
+    "icon": "📈",
+    "severity": "HIGH",
+    "affected_regions": [
+      "GLOBAL"
+    ]
+  },
+  {
+    "date": "2022-01-01",
+    "end_date": "2022-01-31",
+    "event": "Indonesia Sudden Coal Export Ban",
+    "type": "REGULATORY",
+    "impact": "Indonesian government banned all coal exports for 1 month to prioritize domestic PLN power plants. Stranded 400+ bulk carriers off Kalimantan (Samarinda, Banjarmasin); Indian coastal power plants scrambled for Australian/Mozambican coal, spiking Supramax rates.",
+    "icon": "⛔",
+    "severity": "CRITICAL",
+    "affected_regions": [
+      "INDONESIA",
+      "EAST_INDIA",
+      "GLOBAL"
+    ]
+  },
+  {
+    "date": "2022-02-24",
+    "end_date": "2022-12-31",
+    "event": "Russia-Ukraine War & Black Sea Blockade",
+    "type": "GEOPOLITICAL",
+    "impact": "Invasion closed Ukrainian ports and sparked Western sanctions on Russian coal and oil. Disrupted global dry bulk trade lanes; European buyers replaced Russian coal with imports from Australia, South Africa, and US, dramatically increasing global ton-mile demand.",
+    "icon": "⚔️",
+    "severity": "CRITICAL",
+    "affected_regions": [
+      "BLACK_SEA",
+      "EUROPE",
+      "GLOBAL"
+    ]
+  },
+  {
+    "date": "2022-05-07",
+    "end_date": "2022-05-12",
+    "event": "Cyclone Asani",
+    "type": "WEATHER",
+    "impact": "Bay of Bengal cyclone brought gale-force winds and heavy swells to Andhra Pradesh and Odisha coastlines. Vizag, Gangavaram, and Gopalpur suspended lightering and restricted vessel movements for 3 days.",
+    "icon": "🌀",
+    "severity": "MEDIUM",
+    "affected_regions": [
+      "BAY_OF_BENGAL",
+      "EAST_INDIA"
+    ]
+  },
+  {
+    "date": "2022-06-01",
+    "end_date": "2023-06-30",
+    "event": "China Real Estate Crisis & Steel Output Slump",
+    "type": "ECONOMIC",
+    "impact": "Defaults among Chinese property developers (Evergrande, Country Garden) caused sharp contraction in construction activity. Steel mills reduced iron ore and coking coal intake, depressing Capesize rates in late 2022.",
+    "icon": "📉",
+    "severity": "HIGH",
+    "affected_regions": [
+      "CHINA",
+      "GLOBAL"
+    ]
+  },
+  {
+    "date": "2022-10-22",
+    "end_date": "2022-10-25",
+    "event": "Cyclone Sitrang",
+    "type": "WEATHER",
+    "impact": "Made landfall near Barisal, Bangladesh. Triggered high storm surge across northern Bay of Bengal; Sandheads lighterage and Haldia river navigation closed for 3 days.",
+    "icon": "🌀",
+    "severity": "MEDIUM",
+    "affected_regions": [
+      "BAY_OF_BENGAL",
+      "EAST_INDIA"
+    ]
+  },
+  {
+    "date": "2022-12-06",
+    "end_date": "2022-12-10",
+    "event": "Cyclone Mandous",
+    "type": "WEATHER",
+    "impact": "Severe cyclonic storm crossed north Tamil Nadu coast near Mamallapuram. Affected southern Bay of Bengal shipping lanes and caused 3-day berthing delays at Chennai, Krishnapatnam, and Vizag.",
+    "icon": "🌀",
+    "severity": "MEDIUM",
+    "affected_regions": [
+      "BAY_OF_BENGAL",
+      "SOUTH_EAST_INDIA"
+    ]
+  },
+  {
+    "date": "2023-05-09",
+    "end_date": "2023-05-15",
+    "event": "Cyclone Mocha",
+    "type": "WEATHER",
+    "impact": "Category 5 equivalent super cyclone struck Myanmar/Bangladesh border. Disruptive sea states and storm warnings prompted precautionary vessel clearances across East Coast Indian anchorages.",
+    "icon": "🌀",
+    "severity": "HIGH",
+    "affected_regions": [
+      "BAY_OF_BENGAL",
+      "EAST_INDIA"
+    ]
+  },
+  {
+    "date": "2023-06-01",
+    "end_date": "2024-04-30",
+    "event": "Panama Canal Severe Drought Restrictions",
+    "type": "WEATHER",
+    "impact": "Severe El Niño drought caused Gatun Lake water levels to drop precipitously. ACP slashed daily vessel transits from 36 to 22 and cut max draft from 50ft to 44ft. US East Coast coal and grain bulkers diverted via Suez or Cape of Good Hope (+15-20 days).",
+    "icon": "☀️",
+    "severity": "HIGH",
+    "affected_regions": [
+      "PANAMA_CANAL",
+      "GLOBAL",
+      "US_EAST_COAST"
+    ]
+  },
+  {
+    "date": "2023-06-06",
+    "end_date": "2023-06-19",
+    "event": "Cyclone Biparjoy",
+    "type": "WEATHER",
+    "impact": "Long-lived cyclone in the Arabian Sea made landfall near Jakhau Port, Gujarat. Disrupted western coastal logistics and delayed return ballast voyages of Indian coastal bulkers.",
+    "icon": "🌀",
+    "severity": "MEDIUM",
+    "affected_regions": [
+      "ARABIAN_SEA",
+      "WEST_INDIA"
+    ]
+  },
+  {
+    "date": "2023-11-15",
+    "end_date": "2023-11-18",
+    "event": "Cyclone Midhili",
+    "type": "WEATHER",
+    "impact": "Deep depression intensified into cyclonic storm over Bay of Bengal making landfall in Bangladesh. Interrupted lightering at Sandheads and delayed berthing at Haldia and Paradip.",
+    "icon": "🌀",
+    "severity": "LOW",
+    "affected_regions": [
+      "BAY_OF_BENGAL",
+      "EAST_INDIA"
+    ]
+  },
+  {
+    "date": "2023-11-19",
+    "end_date": "2026-12-31",
+    "event": "Red Sea Maritime Crisis & Bab-el-Mandeb Blockade",
+    "type": "GEOPOLITICAL",
+    "impact": "Houthi anti-ship missile and drone attacks forced commercial shipping to abandon the Suez Canal / Bab-el-Mandeb corridor. Dry bulk and container vessels rerouted around the Cape of Good Hope (+3,500 nm, +10-14 days), sharply escalating bunker costs, transit times, and war-risk premiums for US coal to India.",
+    "icon": "🚀",
+    "severity": "CRITICAL",
+    "affected_regions": [
+      "RED_SEA",
+      "SUEZ_CANAL",
+      "BAB_EL_MANDEB",
+      "GLOBAL"
+    ]
+  },
+  {
+    "date": "2023-12-02",
+    "end_date": "2023-12-06",
+    "event": "Cyclone Michaung",
+    "type": "WEATHER",
+    "impact": "Battered Tamil Nadu and Andhra Pradesh coast, making landfall near Bapatla. Caused catastrophic flooding in Chennai and shut cargo operations at Krishnapatnam, Vizag, and Gangavaram for 4 days with high swell.",
+    "icon": "🌀",
+    "severity": "HIGH",
+    "affected_regions": [
+      "BAY_OF_BENGAL",
+      "EAST_INDIA"
+    ]
+  },
+  {
+    "date": "2024-03-26",
+    "end_date": "2024-06-10",
+    "event": "Baltimore Francis Scott Key Bridge Collapse",
+    "type": "MARITIME_ACCIDENT",
+    "impact": "Container ship Dali collided with bridge support, collapsing span and blocking the Patapsco River navigation channel. Shut the Port of Baltimore (second-largest US coal export hub, ~28M MT/yr) for 2.5 months; redirected met and thermal coal exports to Hampton Roads terminals, causing rail and terminal congestion.",
+    "icon": "🌉",
+    "severity": "HIGH",
+    "affected_regions": [
+      "US_EAST_COAST",
+      "GLOBAL"
+    ]
+  },
+  {
+    "date": "2024-05-24",
+    "end_date": "2024-05-28",
+    "event": "Cyclone Remal",
+    "type": "WEATHER",
+    "impact": "Severe cyclonic storm made landfall at Sagar Island, West Bengal / Khepupara, Bangladesh. Haldia Dock Complex halted operations for 48 hours; Sandheads lighterage suspended for 4 days; vessel traffic in Hooghly river suspended.",
+    "icon": "🌀",
+    "severity": "HIGH",
+    "affected_regions": [
+      "BAY_OF_BENGAL",
+      "EAST_INDIA"
+    ]
+  },
+  {
+    "date": "2024-10-01",
+    "end_date": "2024-10-04",
+    "event": "ILA US East and Gulf Coast Port Strike",
+    "type": "LABOR",
+    "impact": "45,000 dockworkers walked out across 36 major ports from Maine to Texas. Complete shutdown of container and multi-commodity terminals halted regional cargo movements and created a multi-week vessel backlog along the US Atlantic seaboard.",
+    "icon": "🛑",
+    "severity": "HIGH",
+    "affected_regions": [
+      "US_EAST_COAST",
+      "US_GULF",
+      "GLOBAL"
+    ]
+  },
+  {
+    "date": "2024-10-23",
+    "end_date": "2024-10-26",
+    "event": "Cyclone Dana",
+    "type": "WEATHER",
+    "impact": "Severe cyclonic storm made landfall between Dhamra and Paradip (Habalikhati Nature Camp). Paradip and Dhamra ports suspended all cargo operations, ordered vessels to anchor at deep sea, and shut railway dispatch rakes for 3 days.",
+    "icon": "🌀",
+    "severity": "HIGH",
+    "affected_regions": [
+      "BAY_OF_BENGAL",
+      "EAST_INDIA"
+    ]
+  },
+  {
+    "date": "2024-11-27",
+    "end_date": "2024-12-03",
+    "event": "Cyclone Fengal",
+    "type": "WEATHER",
+    "impact": "Cyclonic storm crossed north Tamil Nadu and Puducherry coasts, delivering unprecedented torrential downpours (up to 500mm in 24h) and rough sea states. Delayed bulk vessel berthing and discharging across East Coast ports from Chennai to Vizag.",
+    "icon": "🌀",
+    "severity": "MEDIUM",
+    "affected_regions": [
+      "BAY_OF_BENGAL",
+      "SOUTH_EAST_INDIA"
+    ]
+  },
+  {
+    "date": "2024-06-01",
+    "end_date": "2024-09-30",
+    "event": "Southwest Monsoon Season (Annual Recurring)",
+    "type": "SEASONAL",
+    "impact": "Annual meteorological cycle causing high swells (>3.5m), persistent squalls, and rough seas across the Bay of Bengal. Open roadsteads (Gopalpur) and riverine approaches (Haldia/Sandheads) experience reduced discharge rates (down 20-35%), frequent lightering halts, and prolonged anchorage waiting.",
+    "icon": "🌧️",
+    "severity": "HIGH",
+    "affected_regions": [
+      "BAY_OF_BENGAL",
+      "EAST_INDIA",
+      "ARABIAN_SEA"
+    ]
+  },
+  {
+    "date": "2024-10-01",
+    "end_date": "2025-03-31",
+    "event": "Peak Dry Bulk Import Season (Annual Recurring)",
+    "type": "SEASONAL",
+    "impact": "Post-monsoon industrial replenishment window. Indian thermal power utilities and steel plants (SAIL, Tata, JSW) aggressively ramp up seaborne coal restocking. Berth occupancy across Paradip, Dhamra, and Vizag reaches 85-95% with elevated pre-berthing wait times.",
+    "icon": "📈",
+    "severity": "MEDIUM",
+    "affected_regions": [
+      "EAST_INDIA",
+      "GLOBAL"
+    ]
+  }
+]

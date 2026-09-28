@@ -1,0 +1,22 @@
+{
+  "handysize": {
+    "laden_mt_day": 25.0,
+    "ballast_mt_day": 20.0,
+    "port_mt_day": 3.0
+  },
+  "supramax": {
+    "laden_mt_day": 32.0,
+    "ballast_mt_day": 26.0,
+    "port_mt_day": 4.0
+  },
+  "panamax": {
+    "laden_mt_day": 36.0,
+    "ballast_mt_day": 30.0,
+    "port_mt_day": 4.0
+  },
+  "capesize": {
+    "laden_mt_day": 55.0,
+    "ballast_mt_day": 45.0,
+    "port_mt_day": 5.0
+  }
+}

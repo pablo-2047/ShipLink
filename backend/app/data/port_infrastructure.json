@@ -1,0 +1,443 @@
+[
+  {
+    "id": "paradip",
+    "name": "Paradip",
+    "country": "India",
+    "coast": "EAST_INDIA",
+    "type": "discharge",
+    "latitude": 20.2644,
+    "longitude": 86.6286,
+    "max_draft_m": 16.5,
+    "max_loa_m": 300.0,
+    "max_beam_m": 48.0,
+    "cargo_handling_rate_mt_day": 50000,
+    "max_vessel_class": "CAPESIZE",
+    "is_tidal": true,
+    "berth_count": 25,
+    "notes": "Outer channel 18.7m depth. Night pilotage available for vessels up to 260m LOA. Turning basin 500m.",
+    "major_cargoes": [
+      "Thermal Coal",
+      "Coking Coal",
+      "Iron Ore Pellets",
+      "Limestone"
+    ],
+    "monsoon_impact": "HIGH",
+    "anchorage_geofence": {
+      "lat_min": 20.20,
+      "lat_max": 20.35,
+      "lon_min": 86.55,
+      "lon_max": 86.75
+    }
+  },
+  {
+    "id": "vizag_outer",
+    "name": "Visakhapatnam Outer Harbour",
+    "country": "India",
+    "coast": "EAST_INDIA",
+    "type": "discharge",
+    "latitude": 17.6868,
+    "longitude": 83.2955,
+    "max_draft_m": 18.1,
+    "max_loa_m": 390.0,
+    "max_beam_m": 50.0,
+    "cargo_handling_rate_mt_day": 70000,
+    "max_vessel_class": "CAPESIZE",
+    "is_tidal": false,
+    "berth_count": 6,
+    "notes": "Deepwater outer harbour equipped with Vizag General Cargo Berth (VGCB) and 2x2200 TPH ship unloaders. Handles 200,000 DWT Capesize vessels without tidal wait.",
+    "major_cargoes": [
+      "Coking Coal",
+      "Steam Coal",
+      "Iron Ore",
+      "Manganese Ore"
+    ],
+    "monsoon_impact": "MEDIUM",
+    "anchorage_geofence": {
+      "lat_min": 17.63,
+      "lat_max": 17.72,
+      "lon_min": 83.30,
+      "lon_max": 83.42
+    }
+  },
+  {
+    "id": "vizag_inner",
+    "name": "Visakhapatnam Inner Harbour",
+    "country": "India",
+    "coast": "EAST_INDIA",
+    "type": "discharge",
+    "latitude": 17.6990,
+    "longitude": 83.2800,
+    "max_draft_m": 14.5,
+    "max_loa_m": 240.0,
+    "max_beam_m": 32.5,
+    "cargo_handling_rate_mt_day": 25000,
+    "max_vessel_class": "PANAMAX",
+    "is_tidal": false,
+    "berth_count": 24,
+    "notes": "Narrow 110m entrance channel. 2 pilots mandatory for vessels >195m LOA. Fully protected natural basin.",
+    "major_cargoes": [
+      "Coking Coal",
+      "Thermal Coal",
+      "Fertilizers",
+      "Gypsum",
+      "Bauxite"
+    ],
+    "monsoon_impact": "LOW",
+    "anchorage_geofence": {
+      "lat_min": 17.65,
+      "lat_max": 17.73,
+      "lon_min": 83.31,
+      "lon_max": 83.38
+    }
+  },
+  {
+    "id": "gangavaram",
+    "name": "Gangavaram",
+    "country": "India",
+    "coast": "EAST_INDIA",
+    "type": "discharge",
+    "latitude": 17.6200,
+    "longitude": 83.2400,
+    "max_draft_m": 18.5,
+    "max_loa_m": 300.0,
+    "max_beam_m": 48.0,
+    "cargo_handling_rate_mt_day": 80000,
+    "max_vessel_class": "CAPESIZE",
+    "is_tidal": false,
+    "berth_count": 9,
+    "notes": "Deepest port in India with 18.5m permissible water draft. All-weather deepwater multi-purpose port, no tidal wait required. Achieved record 112,599 MT/24hr coal discharge.",
+    "major_cargoes": [
+      "Coking Coal",
+      "Thermal Coal",
+      "Iron Ore",
+      "Fertilizers",
+      "Limestone"
+    ],
+    "monsoon_impact": "LOW",
+    "anchorage_geofence": {
+      "lat_min": 17.58,
+      "lat_max": 17.65,
+      "lon_min": 83.25,
+      "lon_max": 83.35
+    }
+  },
+  {
+    "id": "gopalpur",
+    "name": "Gopalpur",
+    "country": "India",
+    "coast": "EAST_INDIA",
+    "type": "discharge",
+    "latitude": 19.2588,
+    "longitude": 84.9414,
+    "max_draft_m": 14.5,
+    "max_loa_m": 287.0,
+    "max_beam_m": 45.0,
+    "cargo_handling_rate_mt_day": 35000,
+    "max_vessel_class": "PANAMAX",
+    "is_tidal": false,
+    "berth_count": 5,
+    "notes": "Weather-sensitive open roadstead/deep draught commercial port. High swell and strong coastal drift during SW monsoon (June-September) can halt lighterage and berthing.",
+    "major_cargoes": [
+      "Thermal Coal",
+      "Coking Coal",
+      "Ilmenite",
+      "Iron Ore",
+      "Limestone"
+    ],
+    "monsoon_impact": "HIGH",
+    "anchorage_geofence": {
+      "lat_min": 19.22,
+      "lat_max": 19.32,
+      "lon_min": 84.92,
+      "lon_max": 85.05
+    }
+  },
+  {
+    "id": "dhamra",
+    "name": "Dhamra",
+    "country": "India",
+    "coast": "EAST_INDIA",
+    "type": "discharge",
+    "latitude": 20.7700,
+    "longitude": 86.9500,
+    "max_draft_m": 18.5,
+    "max_loa_m": 350.0,
+    "max_beam_m": 50.0,
+    "cargo_handling_rate_mt_day": 100000,
+    "max_vessel_class": "NEWCASTLEMAX",
+    "is_tidal": false,
+    "berth_count": 5,
+    "notes": "18km approach channel with depth 19m. Capable of handling Newcastlemax vessels up to 200,000+ DWT. Discharge record of 132,365 MT/24hr on coal.",
+    "major_cargoes": [
+      "Coking Coal",
+      "Thermal Coal",
+      "Iron Ore Pellets",
+      "Limestone"
+    ],
+    "monsoon_impact": "MEDIUM",
+    "anchorage_geofence": {
+      "lat_min": 20.70,
+      "lat_max": 20.85,
+      "lon_min": 86.96,
+      "lon_max": 87.12
+    }
+  },
+  {
+    "id": "haldia",
+    "name": "Haldia Dock Complex",
+    "country": "India",
+    "coast": "EAST_INDIA",
+    "type": "discharge",
+    "latitude": 22.0250,
+    "longitude": 88.0850,
+    "max_draft_m": 8.5,
+    "max_loa_m": 240.0,
+    "max_beam_m": 32.26,
+    "cargo_handling_rate_mt_day": 22000,
+    "max_vessel_class": "HANDYSIZE",
+    "is_tidal": true,
+    "berth_count": 17,
+    "notes": "Severe draft restrictions due to Hooghly river bars (governed by daily tidal windows). Impounded dock basin entered via lock gates. Ships over 8.5m draft must lighter at Sandheads.",
+    "major_cargoes": [
+      "Coking Coal",
+      "Thermal Coal",
+      "Manganese Ore",
+      "Coke",
+      "Petcoke"
+    ],
+    "monsoon_impact": "HIGH",
+    "anchorage_geofence": {
+      "lat_min": 21.95,
+      "lat_max": 22.08,
+      "lon_min": 88.05,
+      "lon_max": 88.20
+    }
+  },
+  {
+    "id": "sandheads",
+    "name": "Sandheads (Offshore Lighterage)",
+    "country": "India",
+    "coast": "EAST_INDIA",
+    "type": "discharge",
+    "latitude": 21.0000,
+    "longitude": 88.3000,
+    "max_draft_m": 16.0,
+    "max_loa_m": 999.0,
+    "max_beam_m": 999.0,
+    "cargo_handling_rate_mt_day": 25000,
+    "max_vessel_class": "CAPESIZE_LIGHTERAGE",
+    "is_tidal": true,
+    "berth_count": 0,
+    "notes": "Deep sea lighterage anchorage point at the mouth of the Hooghly river. Capesize and baby-Cape bulk carriers lighten cargo into daughter vessels or barges to achieve safe draft for Haldia and Kolkata.",
+    "major_cargoes": [
+      "Coking Coal",
+      "Thermal Coal",
+      "Iron Ore Pellets"
+    ],
+    "monsoon_impact": "HIGH",
+    "anchorage_geofence": {
+      "lat_min": 20.80,
+      "lat_max": 21.20,
+      "lon_min": 88.10,
+      "lon_max": 88.50
+    }
+  },
+  {
+    "id": "newcastle",
+    "name": "Newcastle",
+    "country": "Australia",
+    "coast": "EAST_AUSTRALIA",
+    "type": "loading",
+    "latitude": -32.9283,
+    "longitude": 151.7817,
+    "max_draft_m": 16.1,
+    "max_loa_m": 300.0,
+    "max_beam_m": 50.0,
+    "cargo_handling_rate_mt_day": 80000,
+    "max_vessel_class": "CAPESIZE",
+    "is_tidal": false,
+    "berth_count": 20,
+    "notes": "World's leading coal export terminal (PWCS and NCIG terminals). Deepwater berths handling Capesize vessels up to 210,000 DWT.",
+    "major_cargoes": [
+      "Thermal Coal",
+      "Coking Coal"
+    ],
+    "monsoon_impact": "LOW",
+    "anchorage_geofence": {
+      "lat_min": -32.98,
+      "lat_max": -32.88,
+      "lon_min": 151.75,
+      "lon_max": 151.90
+    }
+  },
+  {
+    "id": "hampton_roads",
+    "name": "Hampton Roads (Norfolk / Newport News)",
+    "country": "United States",
+    "coast": "US_EAST_COAST",
+    "type": "loading",
+    "latitude": 36.9468,
+    "longitude": -76.3304,
+    "max_draft_m": 15.2,
+    "max_loa_m": 305.0,
+    "max_beam_m": 50.0,
+    "cargo_handling_rate_mt_day": 60000,
+    "max_vessel_class": "CAPESIZE",
+    "is_tidal": false,
+    "berth_count": 8,
+    "notes": "Premier US coal export complex (Pier 6 Norfolk Southern, DTA Newport News, Kinder Morgan Pier IX). 50-foot navigation channel to open sea.",
+    "major_cargoes": [
+      "Met Coking Coal",
+      "Thermal Coal"
+    ],
+    "monsoon_impact": "LOW",
+    "anchorage_geofence": {
+      "lat_min": 36.88,
+      "lat_max": 37.05,
+      "lon_min": -76.45,
+      "lon_max": -76.25
+    }
+  },
+  {
+    "id": "maputo",
+    "name": "Maputo (Matola Coal Terminal)",
+    "country": "Mozambique",
+    "coast": "EAST_AFRICA",
+    "type": "loading",
+    "latitude": -25.9653,
+    "longitude": 32.5892,
+    "max_draft_m": 14.0,
+    "max_loa_m": 280.0,
+    "max_beam_m": 45.0,
+    "cargo_handling_rate_mt_day": 40000,
+    "max_vessel_class": "PANAMAX",
+    "is_tidal": true,
+    "berth_count": 12,
+    "notes": "Matola Coal Terminal (TCM) and Maputo dry bulk berths. Dredged access channel through Maputo Bay; tidal navigation required for deep loaded Panamax vessels.",
+    "major_cargoes": [
+      "Thermal Coal",
+      "Magnetite",
+      "Ferrochrome",
+      "Coking Coal"
+    ],
+    "monsoon_impact": "MEDIUM",
+    "anchorage_geofence": {
+      "lat_min": -26.05,
+      "lat_max": -25.92,
+      "lon_min": 32.55,
+      "lon_max": 32.80
+    }
+  },
+  {
+    "id": "nacala",
+    "name": "Nacala (Nacala-a-Velha)",
+    "country": "Mozambique",
+    "coast": "EAST_AFRICA",
+    "type": "loading",
+    "latitude": -14.5566,
+    "longitude": 40.6830,
+    "max_draft_m": 16.0,
+    "max_loa_m": 300.0,
+    "max_beam_m": 48.0,
+    "cargo_handling_rate_mt_day": 50000,
+    "max_vessel_class": "CAPESIZE",
+    "is_tidal": false,
+    "berth_count": 6,
+    "notes": "Deepest natural port on East African coast. Dedicated coal terminal at Nacala-a-Velha connected via 912km rail corridor from Moatize coal basin.",
+    "major_cargoes": [
+      "Thermal Coal",
+      "Coking Coal"
+    ],
+    "monsoon_impact": "LOW",
+    "anchorage_geofence": {
+      "lat_min": -14.62,
+      "lat_max": -14.50,
+      "lon_min": 40.60,
+      "lon_max": 40.75
+    }
+  },
+  {
+    "id": "samarinda",
+    "name": "Samarinda (Mahakam River Anchorage)",
+    "country": "Indonesia",
+    "coast": "EAST_KALIMANTAN",
+    "type": "loading",
+    "latitude": -0.5022,
+    "longitude": 117.1536,
+    "max_draft_m": 12.0,
+    "max_loa_m": 230.0,
+    "max_beam_m": 32.0,
+    "cargo_handling_rate_mt_day": 30000,
+    "max_vessel_class": "SUPRAMAX",
+    "is_tidal": true,
+    "berth_count": 0,
+    "notes": "River and offshore transshipment via self-propelled barges and floating cranes along Mahakam River. Shallow delta bar limits draft; strictly geared Supramax/Ultramax operations.",
+    "major_cargoes": [
+      "Sub-Bituminous Thermal Coal",
+      "Lignite"
+    ],
+    "monsoon_impact": "MEDIUM",
+    "anchorage_geofence": {
+      "lat_min": -0.60,
+      "lat_max": -0.45,
+      "lon_min": 117.10,
+      "lon_max": 117.30
+    }
+  },
+  {
+    "id": "banjarmasin",
+    "name": "Banjarmasin (Taboneo Anchorage)",
+    "country": "Indonesia",
+    "coast": "SOUTH_KALIMANTAN",
+    "type": "loading",
+    "latitude": -3.3274,
+    "longitude": 114.5910,
+    "max_draft_m": 11.0,
+    "max_loa_m": 200.0,
+    "max_beam_m": 32.0,
+    "cargo_handling_rate_mt_day": 25000,
+    "max_vessel_class": "SUPRAMAX",
+    "is_tidal": true,
+    "berth_count": 0,
+    "notes": "Taboneo offshore anchorage loading point. Barges feed bulk carriers from South Kalimantan Barito river mines. Strong river currents and shallow approaches restrict draft.",
+    "major_cargoes": [
+      "Thermal Coal",
+      "Lignite"
+    ],
+    "monsoon_impact": "MEDIUM",
+    "anchorage_geofence": {
+      "lat_min": -3.75,
+      "lat_max": -3.50,
+      "lon_min": 114.35,
+      "lon_max": 114.65
+    }
+  },
+  {
+    "id": "muara_berau",
+    "name": "Muara Berau",
+    "country": "Indonesia",
+    "coast": "EAST_KALIMANTAN",
+    "type": "loading",
+    "latitude": 2.1000,
+    "longitude": 117.5000,
+    "max_draft_m": 14.0,
+    "max_loa_m": 260.0,
+    "max_beam_m": 38.0,
+    "cargo_handling_rate_mt_day": 40000,
+    "max_vessel_class": "PANAMAX",
+    "is_tidal": true,
+    "berth_count": 0,
+    "notes": "Premier deepwater open anchorage off East Kalimantan. Equipped with high-capacity Floating Transfer Units (FTU) and floating cranes capable of loading Panamax vessels.",
+    "major_cargoes": [
+      "Thermal Coal",
+      "PCI Coal"
+    ],
+    "monsoon_impact": "MEDIUM",
+    "anchorage_geofence": {
+      "lat_min": 2.00,
+      "lat_max": 2.25,
+      "lon_min": 117.40,
+      "lon_max": 117.65
+    }
+  }
+]

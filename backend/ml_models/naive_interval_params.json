@@ -1,0 +1,16 @@
+{
+  "14": {
+    "horizon": 14,
+    "low_offset": -336.0,
+    "high_offset": 366.8000000000002,
+    "n_residuals": 4013,
+    "confidence": 0.8
+  },
+  "30": {
+    "horizon": 30,
+    "low_offset": -509.0,
+    "high_offset": 577.4000000000001,
+    "n_residuals": 3997,
+    "confidence": 0.8
+  }
+}

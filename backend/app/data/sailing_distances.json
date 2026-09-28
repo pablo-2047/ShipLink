@@ -1,0 +1,845 @@
+{
+  "routes": [
+    {
+      "origin": "newcastle",
+      "destination": "paradip",
+      "via": "Sunda Strait",
+      "distance_nm": 5720,
+      "voyage_days_12kn": 19.9,
+      "voyage_days_14kn": 17.0,
+      "route_description": "Via Sunda Strait / Bass Strait → Bay of Bengal",
+      "chokepoints": [
+        "Sunda Strait"
+      ],
+      "primary_cargo": "Coking Coal"
+    },
+    {
+      "origin": "newcastle",
+      "destination": "vizag",
+      "via": "Sunda Strait",
+      "distance_nm": 5680,
+      "voyage_days_12kn": 19.7,
+      "voyage_days_14kn": 16.9,
+      "route_description": "Via Sunda Strait → Bay of Bengal",
+      "chokepoints": [
+        "Sunda Strait"
+      ],
+      "primary_cargo": "Coking Coal"
+    },
+    {
+      "origin": "newcastle",
+      "destination": "vizag_outer",
+      "via": "Sunda Strait",
+      "distance_nm": 5680,
+      "voyage_days_12kn": 19.7,
+      "voyage_days_14kn": 16.9,
+      "route_description": "Via Sunda Strait → Bay of Bengal to Outer Harbour",
+      "chokepoints": [
+        "Sunda Strait"
+      ],
+      "primary_cargo": "Coking Coal"
+    },
+    {
+      "origin": "newcastle",
+      "destination": "vizag_inner",
+      "via": "Sunda Strait",
+      "distance_nm": 5680,
+      "voyage_days_12kn": 19.7,
+      "voyage_days_14kn": 16.9,
+      "route_description": "Via Sunda Strait → Bay of Bengal to Inner Basin",
+      "chokepoints": [
+        "Sunda Strait"
+      ],
+      "primary_cargo": "Coking Coal"
+    },
+    {
+      "origin": "newcastle",
+      "destination": "gangavaram",
+      "via": "Sunda Strait",
+      "distance_nm": 5670,
+      "voyage_days_12kn": 19.7,
+      "voyage_days_14kn": 16.9,
+      "route_description": "Via Sunda Strait → Bay of Bengal to Gangavaram Deepwater Berth",
+      "chokepoints": [
+        "Sunda Strait"
+      ],
+      "primary_cargo": "Coking Coal"
+    },
+    {
+      "origin": "newcastle",
+      "destination": "gopalpur",
+      "via": "Sunda Strait",
+      "distance_nm": 5700,
+      "voyage_days_12kn": 19.8,
+      "voyage_days_14kn": 17.0,
+      "route_description": "Via Sunda Strait → Bay of Bengal to Gopalpur Port",
+      "chokepoints": [
+        "Sunda Strait"
+      ],
+      "primary_cargo": "Coking Coal"
+    },
+    {
+      "origin": "newcastle",
+      "destination": "dhamra",
+      "via": "Sunda Strait",
+      "distance_nm": 5750,
+      "voyage_days_12kn": 20.0,
+      "voyage_days_14kn": 17.1,
+      "route_description": "Via Sunda Strait → Bay of Bengal to Dhamra Port",
+      "chokepoints": [
+        "Sunda Strait"
+      ],
+      "primary_cargo": "Coking Coal"
+    },
+    {
+      "origin": "newcastle",
+      "destination": "haldia",
+      "via": "Sunda Strait",
+      "distance_nm": 5820,
+      "voyage_days_12kn": 20.2,
+      "voyage_days_14kn": 17.3,
+      "route_description": "Via Sunda Strait → Hooghly River Channel to Haldia Dock Complex",
+      "chokepoints": [
+        "Sunda Strait"
+      ],
+      "primary_cargo": "Coking Coal"
+    },
+    {
+      "origin": "newcastle",
+      "destination": "sandheads",
+      "via": "Sunda Strait",
+      "distance_nm": 5780,
+      "voyage_days_12kn": 20.1,
+      "voyage_days_14kn": 17.2,
+      "route_description": "Via Sunda Strait → Bay of Bengal to Sandheads Lighterage Anchorage",
+      "chokepoints": [
+        "Sunda Strait"
+      ],
+      "primary_cargo": "Coking Coal"
+    },
+    {
+      "origin": "hampton_roads",
+      "destination": "paradip",
+      "via": "Suez Canal",
+      "distance_nm": 8650,
+      "voyage_days_12kn": 30.0,
+      "voyage_days_14kn": 25.7,
+      "route_description": "Via Strait of Gibraltar → Suez Canal → Bab-el-Mandeb → Bay of Bengal",
+      "chokepoints": [
+        "Strait of Gibraltar",
+        "Suez Canal",
+        "Bab-el-Mandeb"
+      ],
+      "primary_cargo": "Met Coking Coal"
+    },
+    {
+      "origin": "hampton_roads",
+      "destination": "paradip",
+      "via": "Cape of Good Hope",
+      "distance_nm": 11850,
+      "voyage_days_12kn": 41.1,
+      "voyage_days_14kn": 35.3,
+      "route_description": "Via South Atlantic → Cape of Good Hope → Indian Ocean → Bay of Bengal",
+      "chokepoints": [
+        "Cape of Good Hope"
+      ],
+      "primary_cargo": "Met Coking Coal"
+    },
+    {
+      "origin": "hampton_roads",
+      "destination": "vizag",
+      "via": "Suez Canal",
+      "distance_nm": 8500,
+      "voyage_days_12kn": 29.5,
+      "voyage_days_14kn": 25.3,
+      "route_description": "Via Strait of Gibraltar → Suez Canal → Bab-el-Mandeb → Visakhapatnam",
+      "chokepoints": [
+        "Strait of Gibraltar",
+        "Suez Canal",
+        "Bab-el-Mandeb"
+      ],
+      "primary_cargo": "Met Coking Coal"
+    },
+    {
+      "origin": "hampton_roads",
+      "destination": "vizag",
+      "via": "Cape of Good Hope",
+      "distance_nm": 11700,
+      "voyage_days_12kn": 40.6,
+      "voyage_days_14kn": 34.8,
+      "route_description": "Via South Atlantic → Cape of Good Hope → Indian Ocean → Visakhapatnam",
+      "chokepoints": [
+        "Cape of Good Hope"
+      ],
+      "primary_cargo": "Met Coking Coal"
+    },
+    {
+      "origin": "hampton_roads",
+      "destination": "vizag_outer",
+      "via": "Cape of Good Hope",
+      "distance_nm": 11700,
+      "voyage_days_12kn": 40.6,
+      "voyage_days_14kn": 34.8,
+      "route_description": "Via South Atlantic → Cape of Good Hope → Visakhapatnam Outer Harbour",
+      "chokepoints": [
+        "Cape of Good Hope"
+      ],
+      "primary_cargo": "Met Coking Coal"
+    },
+    {
+      "origin": "hampton_roads",
+      "destination": "gangavaram",
+      "via": "Cape of Good Hope",
+      "distance_nm": 11690,
+      "voyage_days_12kn": 40.6,
+      "voyage_days_14kn": 34.8,
+      "route_description": "Via Cape of Good Hope → Indian Ocean → Gangavaram Port",
+      "chokepoints": [
+        "Cape of Good Hope"
+      ],
+      "primary_cargo": "Met Coking Coal"
+    },
+    {
+      "origin": "hampton_roads",
+      "destination": "gangavaram",
+      "via": "Suez Canal",
+      "distance_nm": 8490,
+      "voyage_days_12kn": 29.5,
+      "voyage_days_14kn": 25.3,
+      "route_description": "Via Suez Canal → Bab-el-Mandeb → Gangavaram Port",
+      "chokepoints": [
+        "Strait of Gibraltar",
+        "Suez Canal",
+        "Bab-el-Mandeb"
+      ],
+      "primary_cargo": "Met Coking Coal"
+    },
+    {
+      "origin": "hampton_roads",
+      "destination": "gopalpur",
+      "via": "Cape of Good Hope",
+      "distance_nm": 11780,
+      "voyage_days_12kn": 40.9,
+      "voyage_days_14kn": 35.1,
+      "route_description": "Via Cape of Good Hope → Indian Ocean → Gopalpur Port",
+      "chokepoints": [
+        "Cape of Good Hope"
+      ],
+      "primary_cargo": "Met Coking Coal"
+    },
+    {
+      "origin": "hampton_roads",
+      "destination": "gopalpur",
+      "via": "Suez Canal",
+      "distance_nm": 8580,
+      "voyage_days_12kn": 29.8,
+      "voyage_days_14kn": 25.5,
+      "route_description": "Via Suez Canal → Bab-el-Mandeb → Gopalpur Port",
+      "chokepoints": [
+        "Strait of Gibraltar",
+        "Suez Canal",
+        "Bab-el-Mandeb"
+      ],
+      "primary_cargo": "Met Coking Coal"
+    },
+    {
+      "origin": "hampton_roads",
+      "destination": "dhamra",
+      "via": "Cape of Good Hope",
+      "distance_nm": 11880,
+      "voyage_days_12kn": 41.3,
+      "voyage_days_14kn": 35.4,
+      "route_description": "Via Cape of Good Hope → Indian Ocean → Dhamra Port",
+      "chokepoints": [
+        "Cape of Good Hope"
+      ],
+      "primary_cargo": "Met Coking Coal"
+    },
+    {
+      "origin": "hampton_roads",
+      "destination": "dhamra",
+      "via": "Suez Canal",
+      "distance_nm": 8680,
+      "voyage_days_12kn": 30.1,
+      "voyage_days_14kn": 25.8,
+      "route_description": "Via Suez Canal → Bab-el-Mandeb → Dhamra Port",
+      "chokepoints": [
+        "Strait of Gibraltar",
+        "Suez Canal",
+        "Bab-el-Mandeb"
+      ],
+      "primary_cargo": "Met Coking Coal"
+    },
+    {
+      "origin": "hampton_roads",
+      "destination": "haldia",
+      "via": "Cape of Good Hope",
+      "distance_nm": 11950,
+      "voyage_days_12kn": 41.5,
+      "voyage_days_14kn": 35.6,
+      "route_description": "Via Cape of Good Hope → Hooghly River Channel to Haldia",
+      "chokepoints": [
+        "Cape of Good Hope"
+      ],
+      "primary_cargo": "Met Coking Coal"
+    },
+    {
+      "origin": "hampton_roads",
+      "destination": "haldia",
+      "via": "Suez Canal",
+      "distance_nm": 8750,
+      "voyage_days_12kn": 30.4,
+      "voyage_days_14kn": 26.0,
+      "route_description": "Via Suez Canal → Hooghly River Channel to Haldia",
+      "chokepoints": [
+        "Strait of Gibraltar",
+        "Suez Canal",
+        "Bab-el-Mandeb"
+      ],
+      "primary_cargo": "Met Coking Coal"
+    },
+    {
+      "origin": "hampton_roads",
+      "destination": "sandheads",
+      "via": "Cape of Good Hope",
+      "distance_nm": 11910,
+      "voyage_days_12kn": 41.4,
+      "voyage_days_14kn": 35.4,
+      "route_description": "Via Cape of Good Hope → Sandheads Lighterage Anchorage",
+      "chokepoints": [
+        "Cape of Good Hope"
+      ],
+      "primary_cargo": "Met Coking Coal"
+    },
+    {
+      "origin": "maputo",
+      "destination": "vizag",
+      "via": "Direct Indian Ocean",
+      "distance_nm": 4120,
+      "voyage_days_12kn": 14.3,
+      "voyage_days_14kn": 12.3,
+      "route_description": "Via Mozambique Channel → Indian Ocean → Bay of Bengal to Visakhapatnam",
+      "chokepoints": [
+        "Mozambique Channel"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "maputo",
+      "destination": "vizag_outer",
+      "via": "Direct Indian Ocean",
+      "distance_nm": 4120,
+      "voyage_days_12kn": 14.3,
+      "voyage_days_14kn": 12.3,
+      "route_description": "Via Mozambique Channel → Indian Ocean to Visakhapatnam Outer Harbour",
+      "chokepoints": [
+        "Mozambique Channel"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "maputo",
+      "destination": "gangavaram",
+      "via": "Direct Indian Ocean",
+      "distance_nm": 4110,
+      "voyage_days_12kn": 14.3,
+      "voyage_days_14kn": 12.2,
+      "route_description": "Via Mozambique Channel → Indian Ocean to Gangavaram Port",
+      "chokepoints": [
+        "Mozambique Channel"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "maputo",
+      "destination": "gopalpur",
+      "via": "Direct Indian Ocean",
+      "distance_nm": 4190,
+      "voyage_days_12kn": 14.5,
+      "voyage_days_14kn": 12.5,
+      "route_description": "Via Mozambique Channel → Indian Ocean to Gopalpur Port",
+      "chokepoints": [
+        "Mozambique Channel"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "maputo",
+      "destination": "paradip",
+      "via": "Direct Indian Ocean",
+      "distance_nm": 4250,
+      "voyage_days_12kn": 14.8,
+      "voyage_days_14kn": 12.6,
+      "route_description": "Via Mozambique Channel → Indian Ocean → Bay of Bengal to Paradip",
+      "chokepoints": [
+        "Mozambique Channel"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "maputo",
+      "destination": "dhamra",
+      "via": "Direct Indian Ocean",
+      "distance_nm": 4280,
+      "voyage_days_12kn": 14.9,
+      "voyage_days_14kn": 12.7,
+      "route_description": "Via Mozambique Channel → Indian Ocean to Dhamra Port",
+      "chokepoints": [
+        "Mozambique Channel"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "maputo",
+      "destination": "haldia",
+      "via": "Direct Indian Ocean",
+      "distance_nm": 4350,
+      "voyage_days_12kn": 15.1,
+      "voyage_days_14kn": 12.9,
+      "route_description": "Via Mozambique Channel → Indian Ocean to Haldia Dock Complex",
+      "chokepoints": [
+        "Mozambique Channel"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "maputo",
+      "destination": "sandheads",
+      "via": "Direct Indian Ocean",
+      "distance_nm": 4310,
+      "voyage_days_12kn": 15.0,
+      "voyage_days_14kn": 12.8,
+      "route_description": "Via Mozambique Channel → Indian Ocean to Sandheads Anchorage",
+      "chokepoints": [
+        "Mozambique Channel"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "nacala",
+      "destination": "vizag",
+      "via": "Direct Indian Ocean",
+      "distance_nm": 3600,
+      "voyage_days_12kn": 12.5,
+      "voyage_days_14kn": 10.7,
+      "route_description": "Via North Mozambique Channel → Indian Ocean to Visakhapatnam",
+      "chokepoints": [
+        "Mozambique Channel"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "nacala",
+      "destination": "vizag_outer",
+      "via": "Direct Indian Ocean",
+      "distance_nm": 3600,
+      "voyage_days_12kn": 12.5,
+      "voyage_days_14kn": 10.7,
+      "route_description": "Via North Mozambique Channel → Indian Ocean to Visakhapatnam Outer Harbour",
+      "chokepoints": [
+        "Mozambique Channel"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "nacala",
+      "destination": "gangavaram",
+      "via": "Direct Indian Ocean",
+      "distance_nm": 3590,
+      "voyage_days_12kn": 12.5,
+      "voyage_days_14kn": 10.7,
+      "route_description": "Via North Mozambique Channel → Indian Ocean to Gangavaram Port",
+      "chokepoints": [
+        "Mozambique Channel"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "nacala",
+      "destination": "gopalpur",
+      "via": "Direct Indian Ocean",
+      "distance_nm": 3670,
+      "voyage_days_12kn": 12.7,
+      "voyage_days_14kn": 10.9,
+      "route_description": "Via North Mozambique Channel → Indian Ocean to Gopalpur Port",
+      "chokepoints": [
+        "Mozambique Channel"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "nacala",
+      "destination": "paradip",
+      "via": "Direct Indian Ocean",
+      "distance_nm": 3730,
+      "voyage_days_12kn": 13.0,
+      "voyage_days_14kn": 11.1,
+      "route_description": "Via North Mozambique Channel → Indian Ocean → Bay of Bengal to Paradip",
+      "chokepoints": [
+        "Mozambique Channel"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "nacala",
+      "destination": "dhamra",
+      "via": "Direct Indian Ocean",
+      "distance_nm": 3760,
+      "voyage_days_12kn": 13.1,
+      "voyage_days_14kn": 11.2,
+      "route_description": "Via North Mozambique Channel → Indian Ocean to Dhamra Port",
+      "chokepoints": [
+        "Mozambique Channel"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "nacala",
+      "destination": "haldia",
+      "via": "Direct Indian Ocean",
+      "distance_nm": 3830,
+      "voyage_days_12kn": 13.3,
+      "voyage_days_14kn": 11.4,
+      "route_description": "Via North Mozambique Channel → Indian Ocean to Haldia Dock Complex",
+      "chokepoints": [
+        "Mozambique Channel"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "nacala",
+      "destination": "sandheads",
+      "via": "Direct Indian Ocean",
+      "distance_nm": 3790,
+      "voyage_days_12kn": 13.2,
+      "voyage_days_14kn": 11.3,
+      "route_description": "Via North Mozambique Channel → Indian Ocean to Sandheads Anchorage",
+      "chokepoints": [
+        "Mozambique Channel"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "samarinda",
+      "destination": "vizag",
+      "via": "Malacca Strait",
+      "distance_nm": 3044,
+      "voyage_days_12kn": 10.6,
+      "voyage_days_14kn": 9.1,
+      "route_description": "Via Makassar Strait → Java Sea → Singapore Strait → Malacca Strait → Visakhapatnam",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "samarinda",
+      "destination": "vizag_inner",
+      "via": "Malacca Strait",
+      "distance_nm": 3044,
+      "voyage_days_12kn": 10.6,
+      "voyage_days_14kn": 9.1,
+      "route_description": "Via Makassar Strait → Malacca Strait to Visakhapatnam Inner Harbour",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "samarinda",
+      "destination": "gangavaram",
+      "via": "Malacca Strait",
+      "distance_nm": 3040,
+      "voyage_days_12kn": 10.6,
+      "voyage_days_14kn": 9.0,
+      "route_description": "Via Makassar Strait → Malacca Strait → Bay of Bengal to Gangavaram",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "samarinda",
+      "destination": "gopalpur",
+      "via": "Malacca Strait",
+      "distance_nm": 3100,
+      "voyage_days_12kn": 10.8,
+      "voyage_days_14kn": 9.2,
+      "route_description": "Via Makassar Strait → Malacca Strait → Bay of Bengal to Gopalpur",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "samarinda",
+      "destination": "paradip",
+      "via": "Malacca Strait",
+      "distance_nm": 3150,
+      "voyage_days_12kn": 10.9,
+      "voyage_days_14kn": 9.4,
+      "route_description": "Via Makassar Strait → Singapore Strait → Malacca Strait → Bay of Bengal to Paradip",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "samarinda",
+      "destination": "dhamra",
+      "via": "Malacca Strait",
+      "distance_nm": 3180,
+      "voyage_days_12kn": 11.0,
+      "voyage_days_14kn": 9.5,
+      "route_description": "Via Makassar Strait → Singapore Strait → Malacca Strait → Dhamra Port",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "samarinda",
+      "destination": "haldia",
+      "via": "Malacca Strait",
+      "distance_nm": 3220,
+      "voyage_days_12kn": 11.2,
+      "voyage_days_14kn": 9.6,
+      "route_description": "Via Makassar Strait → Singapore Strait → Malacca Strait → Hooghly River to Haldia",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "samarinda",
+      "destination": "sandheads",
+      "via": "Malacca Strait",
+      "distance_nm": 3190,
+      "voyage_days_12kn": 11.1,
+      "voyage_days_14kn": 9.5,
+      "route_description": "Via Makassar Strait → Singapore Strait → Malacca Strait → Sandheads Anchorage",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "banjarmasin",
+      "destination": "vizag",
+      "via": "Malacca Strait",
+      "distance_nm": 2980,
+      "voyage_days_12kn": 10.3,
+      "voyage_days_14kn": 8.9,
+      "route_description": "Via Java Sea → Karimata Strait → Singapore Strait → Malacca Strait → Visakhapatnam",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "banjarmasin",
+      "destination": "vizag_inner",
+      "via": "Malacca Strait",
+      "distance_nm": 2980,
+      "voyage_days_12kn": 10.3,
+      "voyage_days_14kn": 8.9,
+      "route_description": "Via Java Sea → Malacca Strait to Visakhapatnam Inner Harbour",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "banjarmasin",
+      "destination": "gangavaram",
+      "via": "Malacca Strait",
+      "distance_nm": 2975,
+      "voyage_days_12kn": 10.3,
+      "voyage_days_14kn": 8.9,
+      "route_description": "Via Java Sea → Malacca Strait to Gangavaram Port",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "banjarmasin",
+      "destination": "gopalpur",
+      "via": "Malacca Strait",
+      "distance_nm": 3040,
+      "voyage_days_12kn": 10.6,
+      "voyage_days_14kn": 9.0,
+      "route_description": "Via Java Sea → Malacca Strait to Gopalpur Port",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "banjarmasin",
+      "destination": "paradip",
+      "via": "Malacca Strait",
+      "distance_nm": 3090,
+      "voyage_days_12kn": 10.7,
+      "voyage_days_14kn": 9.2,
+      "route_description": "Via Java Sea → Karimata Strait → Singapore Strait → Malacca Strait → Paradip",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "banjarmasin",
+      "destination": "dhamra",
+      "via": "Malacca Strait",
+      "distance_nm": 3120,
+      "voyage_days_12kn": 10.8,
+      "voyage_days_14kn": 9.3,
+      "route_description": "Via Java Sea → Karimata Strait → Singapore Strait → Malacca Strait → Dhamra",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "banjarmasin",
+      "destination": "haldia",
+      "via": "Malacca Strait",
+      "distance_nm": 3160,
+      "voyage_days_12kn": 11.0,
+      "voyage_days_14kn": 9.4,
+      "route_description": "Via Java Sea → Singapore Strait → Malacca Strait → Hooghly River to Haldia",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "banjarmasin",
+      "destination": "sandheads",
+      "via": "Malacca Strait",
+      "distance_nm": 3130,
+      "voyage_days_12kn": 10.9,
+      "voyage_days_14kn": 9.3,
+      "route_description": "Via Java Sea → Singapore Strait → Malacca Strait → Sandheads Anchorage",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "muara_berau",
+      "destination": "paradip",
+      "via": "Malacca Strait",
+      "distance_nm": 3225,
+      "voyage_days_12kn": 11.2,
+      "voyage_days_14kn": 9.6,
+      "route_description": "Via Makassar Strait → Singapore Strait → Malacca Strait → Bay of Bengal to Paradip",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "muara_berau",
+      "destination": "vizag",
+      "via": "Malacca Strait",
+      "distance_nm": 3120,
+      "voyage_days_12kn": 10.8,
+      "voyage_days_14kn": 9.3,
+      "route_description": "Via Makassar Strait → Singapore Strait → Malacca Strait → Visakhapatnam",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "muara_berau",
+      "destination": "gangavaram",
+      "via": "Malacca Strait",
+      "distance_nm": 3115,
+      "voyage_days_12kn": 10.8,
+      "voyage_days_14kn": 9.3,
+      "route_description": "Via Makassar Strait → Malacca Strait to Gangavaram Port",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "muara_berau",
+      "destination": "gopalpur",
+      "via": "Malacca Strait",
+      "distance_nm": 3175,
+      "voyage_days_12kn": 11.0,
+      "voyage_days_14kn": 9.5,
+      "route_description": "Via Makassar Strait → Malacca Strait to Gopalpur Port",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "muara_berau",
+      "destination": "dhamra",
+      "via": "Malacca Strait",
+      "distance_nm": 3255,
+      "voyage_days_12kn": 11.3,
+      "voyage_days_14kn": 9.7,
+      "route_description": "Via Makassar Strait → Singapore Strait → Malacca Strait → Dhamra Port",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "muara_berau",
+      "destination": "haldia",
+      "via": "Malacca Strait",
+      "distance_nm": 3295,
+      "voyage_days_12kn": 11.4,
+      "voyage_days_14kn": 9.8,
+      "route_description": "Via Makassar Strait → Singapore Strait → Malacca Strait → Hooghly River to Haldia",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    },
+    {
+      "origin": "muara_berau",
+      "destination": "sandheads",
+      "via": "Malacca Strait",
+      "distance_nm": 3265,
+      "voyage_days_12kn": 11.3,
+      "voyage_days_14kn": 9.7,
+      "route_description": "Via Makassar Strait → Singapore Strait → Malacca Strait → Sandheads Anchorage",
+      "chokepoints": [
+        "Singapore Strait",
+        "Malacca Strait"
+      ],
+      "primary_cargo": "Thermal Coal"
+    }
+  ]
+}

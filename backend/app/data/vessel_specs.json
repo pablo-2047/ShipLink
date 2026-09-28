@@ -1,0 +1,62 @@
+[
+  {
+    "id": "handysize",
+    "name": "Handysize",
+    "dwt_min": 15000,
+    "dwt_max": 39999,
+    "typical_dwt": 32000,
+    "loa_m": 180.0,
+    "beam_m": 28.0,
+    "laden_draft_m": 10.5,
+    "speed_knots": 12.5,
+    "fuel_consumption_mt_day": 25.0,
+    "has_gear": true,
+    "typical_charter_rate_usd_day": 12000,
+    "description": "Smallest bulk carrier class. Self-loading/unloading with cranes. Fits ALL ports including draft-restricted Haldia."
+  },
+  {
+    "id": "supramax",
+    "name": "Supramax",
+    "dwt_min": 50000,
+    "dwt_max": 65999,
+    "typical_dwt": 58000,
+    "loa_m": 200.0,
+    "beam_m": 32.26,
+    "laden_draft_m": 13.0,
+    "speed_knots": 13.0,
+    "fuel_consumption_mt_day": 32.0,
+    "has_gear": true,
+    "typical_charter_rate_usd_day": 17000,
+    "description": "Versatile geared bulk carrier equipped with 4x30 MT cranes and grabs. Workhorse for Indonesian coal imports and shallow-draft ports."
+  },
+  {
+    "id": "panamax",
+    "name": "Panamax",
+    "dwt_min": 66000,
+    "dwt_max": 84999,
+    "typical_dwt": 75000,
+    "loa_m": 229.0,
+    "beam_m": 32.26,
+    "laden_draft_m": 14.5,
+    "speed_knots": 13.5,
+    "fuel_consumption_mt_day": 36.0,
+    "has_gear": false,
+    "typical_charter_rate_usd_day": 22000,
+    "description": "Standard gearless dry bulk vessel historically sized for original Panama Canal locks. Primary workhorse for coal imports to Paradip, Vizag Inner, and Gopalpur."
+  },
+  {
+    "id": "capesize",
+    "name": "Capesize",
+    "dwt_min": 100000,
+    "dwt_max": 209999,
+    "typical_dwt": 180000,
+    "loa_m": 292.0,
+    "beam_m": 48.0,
+    "laden_draft_m": 18.0,
+    "speed_knots": 13.5,
+    "fuel_consumption_mt_day": 55.0,
+    "has_gear": false,
+    "typical_charter_rate_usd_day": 30000,
+    "description": "Large heavy dry bulk carrier too large for Panama Canal, traditionally navigating via Cape of Good Hope. Requires deepwater ports like Gangavaram, Dhamra, Vizag Outer, or lighterage at Sandheads."
+  }
+]
