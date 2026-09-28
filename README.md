@@ -35,34 +35,6 @@ npm run dev
 
 ---
 
-## 🔑 How to Get Firebase API Keys
-ShipLink uses Firebase for secure user authentication. 
-1. Go to [Firebase Console](https://console.firebase.google.com/) and create a new project.
-2. Enable **Authentication** (Email/Password).
-3. Click the **Web** icon (</>) to register a web app.
-4. Copy the keys provided into your rontend/.env file:
-`env
-VITE_FIREBASE_API_KEY=your_api_key_here
-VITE_FIREBASE_AUTH_DOMAIN=your_project.firebaseapp.com
-VITE_FIREBASE_PROJECT_ID=your_project_id
-\\\
-
-### 2. Backend Data APIs (Render)
-The predictive model and port congestion radar aggregate data from multiple global sources. To run the backend fully, you will need keys for these services (though the app includes fallback mock data if they are missing):
-* **FRED API** (US Federal Reserve Economic Data)
-* **AISStream API** (Real-time vessel tracking)
-* **EIA API** (US Energy Information Administration for bunker fuel proxies)
-
-Create a \.env\ file in your \ackend/\ folder and add them:
-\\\env
-FRED_API_KEY=your_fred_key
-AISSTREAM_API_KEY=your_aisstream_key
-EIA_API_KEY=your_eia_key
-OILPRICE_API_KEY=your_oilprice_key
-\\\
-When deploying the backend to Render, add these exact variables to the **Environment Variables** section in the Render dashboard.
-`
-
 ## 🌍 Production Deployment Guide
 
 ### Why two hosts?
@@ -75,4 +47,5 @@ Machine Learning models (LightGBM/SHAP) are too heavy for Vercel's lightweight s
 2. Copy the URL Render gives you (e.g., https://shiplink-api.onrender.com).
 3. Deploy the rontend folder to **Vercel.com**.
 4. In Vercel's Environment Variables settings, add your Firebase keys AND add VITE_API_URL pointing to your Render URL.
+
 
