@@ -1,0 +1,5 @@
+horizon,deployed_strategy,mean_mae,mean_rmse,mean_mape,mean_wape,mean_directional_accuracy
+1,delta / lag-restricted features,30.407,43.286,1.343,1.357,0.673
+7,"ARIMA(1,1,0) baseline alone",151.468,190.332,6.735,6.784,0.434
+14,Naive (fallback),225.176,285.598,10.048,10.107,0.0
+30,Naive (fallback),298.504,375.091,13.193,13.416,0.0
