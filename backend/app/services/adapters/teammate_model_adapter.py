@@ -140,7 +140,7 @@ class TeammateModelAdapter(ModelInterface):
                 if features_file:
                     break
 
-        if features_file.exists():
+        if features_file and features_file.exists():
             self.df = pd.read_csv(features_file, parse_dates=["date"]).sort_values("date").reset_index(drop=True)
             # Add engineered momentum and ratio features
             self.df["bdi_momentum_7_30"] = self.df["bdi_rollmean7"] - self.df["bdi_rollmean30"]
